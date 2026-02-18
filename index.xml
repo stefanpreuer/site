@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home |</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/logo.svg</url><title>Home</title><link>https://example.com/</link></image><item><title>Getting Started</title><link>https://example.com/docs/getting-started/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://example.com/docs/getting-started/</guid><description>&lt;h2 id="quick-start-from-template"&gt;Quick Start from Template&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home |</title><link>https://stefanpreuer.github.io/site/</link><atom:link href="https://stefanpreuer.github.io/site/index.xml" rel="self" type="application/rss+xml"/><description>Home</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><image><url>https://stefanpreuer.github.io/site/media/logo.svg</url><title>Home</title><link>https://stefanpreuer.github.io/site/</link></image><item><title>Getting Started</title><link>https://stefanpreuer.github.io/site/docs/getting-started/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/getting-started/</guid><description>&lt;h2 id="quick-start-from-template"&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class="hb-steps"&gt;
 &lt;h3 id="initialize-a-new-site"&gt;Initialize a new site&lt;/h3&gt;
 &lt;p&gt;
@@ -24,8 +24,8 @@ class="hb-card group"href="../guide/project-structure" &gt;
 class="hb-card group"href="../guide/configuration" &gt;
 &lt;span class="hb-card-title p-4"&gt;
 &lt;svg style="height: 1em; width: 1em;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 13.5V3.75m0 9.75a1.5 1.5 0 0 1 0 3m0-3a1.5 1.5 0 0 0 0 3m0 3.75V16.5m12-3V3.75m0 9.75a1.5 1.5 0 0 1 0 3m0-3a1.5 1.5 0 0 0 0 3m0 3.75V16.5m-6-9V3.75m0 3.75a1.5 1.5 0 0 1 0 3m0-3a1.5 1.5 0 0 0 0 3m0 9.75V10.5"/&gt;&lt;/svg&gt;Configuration&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;</description></item><item><title>Customizing Hugo</title><link>https://example.com/docs/reference/customization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/reference/customization/</guid><description>&lt;p&gt;View the full docs at
-&lt;/p&gt;</description></item><item><title>Project Structure</title><link>https://example.com/docs/guide/project-structure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/project-structure/</guid><description>&lt;h2 id="folder-structure"&gt;Folder Structure&lt;/h2&gt;
+&lt;/div&gt;</description></item><item><title>Customizing Hugo</title><link>https://stefanpreuer.github.io/site/docs/reference/customization/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/reference/customization/</guid><description>&lt;p&gt;View the full docs at
+&lt;/p&gt;</description></item><item><title>Project Structure</title><link>https://stefanpreuer.github.io/site/docs/guide/project-structure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/project-structure/</guid><description>&lt;h2 id="folder-structure"&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;content/&lt;/code&gt; for your Markdown-formatted content files (homepage, etc.)
@@ -73,7 +73,7 @@ class="hb-card group"href="../guide/configuration" &gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;My Test&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;weight&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nn"&gt;---&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Configuration</title><link>https://example.com/docs/guide/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/configuration/</guid><description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Configuration</title><link>https://stefanpreuer.github.io/site/docs/guide/configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/configuration/</guid><description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id="full-documentation"&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See
 &lt;/p&gt;
@@ -104,7 +104,7 @@ class="hb-card group"href="../guide/configuration" &gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="l"&gt;My Page&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;toc&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nn"&gt;---&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Nvidia</title><link>https://example.com/showcase/nvidia/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://example.com/showcase/nvidia/</guid><description/></item><item><title>v2.0.0 Released!</title><link>https://example.com/blog/v2.0.0/</link><pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><guid>https://example.com/blog/v2.0.0/</guid><description>&lt;p&gt;Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Nvidia</title><link>https://stefanpreuer.github.io/site/showcase/nvidia/</link><pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/showcase/nvidia/</guid><description/></item><item><title>v2.0.0 Released!</title><link>https://stefanpreuer.github.io/site/blog/v2.0.0/</link><pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/blog/v2.0.0/</guid><description>&lt;p&gt;Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
 &lt;p&gt;Highlights include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;New config options&lt;/li&gt;
@@ -119,7 +119,7 @@ class="hb-card group"href="../guide/configuration" &gt;
 &lt;h2 id="how-to-upgrade"&gt;How to Upgrade&lt;/h2&gt;
 &lt;p&gt;Simply run the following command in your terminal:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;hugo mod get -u github.com/HugoBlox/kit/modules/blox@main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;</description></item><item><title>v1.0.0 Released!</title><link>https://example.com/blog/v1.0.0/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://example.com/blog/v1.0.0/</guid><description>&lt;p&gt;Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;</description></item><item><title>v1.0.0 Released!</title><link>https://stefanpreuer.github.io/site/blog/v1.0.0/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/blog/v1.0.0/</guid><description>&lt;p&gt;Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.&lt;/p&gt;
 &lt;p&gt;Highlights include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;New config options&lt;/li&gt;
@@ -134,12 +134,12 @@ class="hb-card group"href="../guide/configuration" &gt;
 &lt;h2 id="how-to-upgrade"&gt;How to Upgrade&lt;/h2&gt;
 &lt;p&gt;Simply run the following command in your terminal:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;hugo mod get -u github.com/HugoBlox/kit/modules/blox@main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;</description></item><item><title>Button Shortcode</title><link>https://example.com/docs/guide/shortcodes/button/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/button/</guid><description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae fringilla sem. Integer mattis dictum augue non auctor. Proin quis porttitor enim. Praesent vulputate arcu egestas scelerisque condimentum. Vivamus elit risus, suscipit et enim et, viverra molestie elit. Nulla ullamcorper nisl vel nisi pellentesque, id feugiat risus interdum. Duis consequat ipsum elit. Aenean hendrerit diam ipsum, a convallis magna congue et. Sed ex erat, pretium et ante id, malesuada luctus nibh. Nunc nec consectetur elit.&lt;/p&gt;</description></item><item><title>Button Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/button/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/button/</guid><description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id="basic-usage"&gt;Basic Usage&lt;/h2&gt;
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-5df2e4b54807421684928df49b266d55"
-href="https://example.com/contact"
+href="https://stefanpreuer.github.io/site/contact"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg"
 role="button"
 aria-label="Contact Us"
@@ -401,7 +401,7 @@ aria-label="Pill Button"
 &lt;div class="text-center"&gt;
 &lt;a
 id="button-66ad598b31748f26e7e56e9ba3f6e6c1"
-href="https://example.com/signup"
+href="https://stefanpreuer.github.io/site/signup"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-6 py-3 text-lg rounded-lg"
 role="button"
 aria-label="Get Started Today"
@@ -435,7 +435,7 @@ aria-label="View on GitHub"
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-8e60ed1d24406712d4ea39a995101311"
-href="https://example.com/files/document.pdf"
+href="https://stefanpreuer.github.io/site/files/document.pdf"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-secondary-500 to-secondary-600 hover:from-secondary-600 hover:to-secondary-700 active:from-secondary-700 active:to-secondary-800 text-white shadow-lg shadow-secondary-500/25 hover:shadow-xl hover:shadow-secondary-500/30 hover:scale-105 active:scale-95 focus:ring-secondary-500/50 px-4 py-2 text-base rounded-full"
 role="button"
 aria-label="Download PDF"
@@ -537,7 +537,7 @@ aria-label="Download PDF"
 &lt;li&gt;Keyboard focus indicators&lt;/li&gt;
 &lt;li&gt;High contrast focus rings&lt;/li&gt;
 &lt;li&gt;Disabled state handling&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Callout Shortcode</title><link>https://example.com/docs/guide/shortcodes/callout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/callout/</guid><description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Callout Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/callout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/callout/</guid><description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
 &lt;h3 id="notes"&gt;Notes&lt;/h3&gt;
@@ -568,7 +568,7 @@ data-callout-metadata=""&gt;
 &lt;/div&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;&amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;[!WARNING]
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;&amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;Here&amp;#39;s some important information...
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Cards Shortcode</title><link>https://example.com/docs/guide/shortcodes/cards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/cards/</guid><description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Cards Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/cards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/cards/</guid><description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
 &lt;div class="hb-cards mt-4 grid gap-4 not-prose" style="--hb-cols: 1;"&gt;
 &lt;a
@@ -611,7 +611,7 @@ class="hb-card group"&gt;
 &lt;td&gt;URL&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Community</title><link>https://example.com/community/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/community/</guid><description>&lt;h2 id="support"&gt;Support&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>Community</title><link>https://stefanpreuer.github.io/site/community/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/community/</guid><description>&lt;h2 id="support"&gt;Support&lt;/h2&gt;
 &lt;p&gt;Get support fast. Hugo Blox has the largest Hugo community on Discord, consisting of thousands of creators, developers, and startups.&lt;/p&gt;
 &lt;h2 id="docs"&gt;Docs&lt;/h2&gt;
 &lt;ul&gt;
@@ -644,10 +644,10 @@ class="hb-card group"&gt;
 &lt;ul&gt;
 &lt;li&gt;
 for help installing Hugo and resolving Hugo error messages&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Internationalization (i18n)</title><link>https://example.com/docs/reference/i18n/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/reference/i18n/</guid><description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s
+&lt;/ul&gt;</description></item><item><title>Internationalization (i18n)</title><link>https://stefanpreuer.github.io/site/docs/reference/i18n/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/reference/i18n/</guid><description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s
 feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at
-&lt;/p&gt;</description></item><item><title>Spoiler</title><link>https://example.com/docs/guide/shortcodes/toggle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/toggle/</guid><description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>Spoiler</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/toggle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/toggle/</guid><description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id="example"&gt;Example&lt;/h2&gt;
 &lt;details class="spoiler " id="spoiler-0"&gt;
 &lt;summary class="cursor-pointer"&gt;Click to view the spoiler&lt;/summary&gt;
@@ -664,7 +664,7 @@ feature.&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Markdown is **supported**.
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; /spoiler &amp;gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Steps Shortcode</title><link>https://example.com/docs/guide/shortcodes/steps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/steps/</guid><description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Steps Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/steps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/steps/</guid><description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id="example"&gt;Example&lt;/h2&gt;
 &lt;div class="hb-steps"&gt;
 &lt;h3 id="step-1"&gt;Step 1&lt;/h3&gt;

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes |</title><link>https://example.com/docs/guide/shortcodes/</link><atom:link href="https://example.com/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml"/><description>Shortcodes</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://example.com/media/logo.svg</url><title>Shortcodes</title><link>https://example.com/docs/guide/shortcodes/</link></image><item><title>Button Shortcode</title><link>https://example.com/docs/guide/shortcodes/button/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/button/</guid><description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shortcodes |</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/</link><atom:link href="https://stefanpreuer.github.io/site/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml"/><description>Shortcodes</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><image><url>https://stefanpreuer.github.io/site/media/logo.svg</url><title>Shortcodes</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/</link></image><item><title>Button Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/button/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/button/</guid><description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id="basic-usage"&gt;Basic Usage&lt;/h2&gt;
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-5df2e4b54807421684928df49b266d55"
-href="https://example.com/contact"
+href="https://stefanpreuer.github.io/site/contact"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-4 py-2 text-base rounded-lg"
 role="button"
 aria-label="Contact Us"
@@ -265,7 +265,7 @@ aria-label="Pill Button"
 &lt;div class="text-center"&gt;
 &lt;a
 id="button-66ad598b31748f26e7e56e9ba3f6e6c1"
-href="https://example.com/signup"
+href="https://stefanpreuer.github.io/site/signup"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 active:from-primary-700 active:to-primary-800 text-white shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 hover:-translate-y-0.5 hover:scale-[1.02] active:scale-[0.98] focus:ring-primary-500/50 px-6 py-3 text-lg rounded-lg"
 role="button"
 aria-label="Get Started Today"
@@ -299,7 +299,7 @@ aria-label="View on GitHub"
 &lt;div class="text-left"&gt;
 &lt;a
 id="button-8e60ed1d24406712d4ea39a995101311"
-href="https://example.com/files/document.pdf"
+href="https://stefanpreuer.github.io/site/files/document.pdf"
 class="inline-flex items-center gap-2 font-medium no-underline transition-all duration-300 ease-out transform-gpu focus:outline-none focus:ring-4 focus:ring-offset-2 focus:ring-offset-white dark:focus:ring-offset-zinc-900 disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none bg-gradient-to-br from-secondary-500 to-secondary-600 hover:from-secondary-600 hover:to-secondary-700 active:from-secondary-700 active:to-secondary-800 text-white shadow-lg shadow-secondary-500/25 hover:shadow-xl hover:shadow-secondary-500/30 hover:scale-105 active:scale-95 focus:ring-secondary-500/50 px-4 py-2 text-base rounded-full"
 role="button"
 aria-label="Download PDF"
@@ -401,7 +401,7 @@ aria-label="Download PDF"
 &lt;li&gt;Keyboard focus indicators&lt;/li&gt;
 &lt;li&gt;High contrast focus rings&lt;/li&gt;
 &lt;li&gt;Disabled state handling&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Callout Shortcode</title><link>https://example.com/docs/guide/shortcodes/callout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/callout/</guid><description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Callout Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/callout/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/callout/</guid><description>&lt;p&gt;Hugo Blox supports a Markdown extension for callouts, also referred to as alerts or asides.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
 &lt;h3 id="notes"&gt;Notes&lt;/h3&gt;
@@ -432,7 +432,7 @@ data-callout-metadata=""&gt;
 &lt;/div&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-markdown" data-lang="markdown"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;&amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;[!WARNING]
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;&amp;gt; &lt;/span&gt;&lt;span class="ge"&gt;Here&amp;#39;s some important information...
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Cards Shortcode</title><link>https://example.com/docs/guide/shortcodes/cards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/cards/</guid><description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Cards Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/cards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/cards/</guid><description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id="usage"&gt;Usage&lt;/h2&gt;
 &lt;div class="hb-cards mt-4 grid gap-4 not-prose" style="--hb-cols: 1;"&gt;
 &lt;a
@@ -475,7 +475,7 @@ class="hb-card group"&gt;
 &lt;td&gt;URL&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>Spoiler</title><link>https://example.com/docs/guide/shortcodes/toggle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/toggle/</guid><description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
+&lt;/table&gt;</description></item><item><title>Spoiler</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/toggle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/toggle/</guid><description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id="example"&gt;Example&lt;/h2&gt;
 &lt;details class="spoiler " id="spoiler-0"&gt;
 &lt;summary class="cursor-pointer"&gt;Click to view the spoiler&lt;/summary&gt;
@@ -492,7 +492,7 @@ class="hb-card group"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Markdown is **supported**.
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;{{&amp;lt; /spoiler &amp;gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Steps Shortcode</title><link>https://example.com/docs/guide/shortcodes/steps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/docs/guide/shortcodes/steps/</guid><description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Steps Shortcode</title><link>https://stefanpreuer.github.io/site/docs/guide/shortcodes/steps/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://stefanpreuer.github.io/site/docs/guide/shortcodes/steps/</guid><description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id="example"&gt;Example&lt;/h2&gt;
 &lt;div class="hb-steps"&gt;
 &lt;h3 id="step-1"&gt;Step 1&lt;/h3&gt;
